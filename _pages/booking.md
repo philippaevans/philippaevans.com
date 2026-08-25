@@ -4,6 +4,7 @@ title: booking
 permalink: /booking
 subtitle: <a href='#'>Bookings</a>.
 nav: true
+nav_order: 4
 
 profile:
   align: right
