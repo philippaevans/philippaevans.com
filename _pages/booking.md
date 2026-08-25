@@ -3,6 +3,7 @@ layout: booking
 title: booking
 permalink: /booking
 subtitle: <a href='#'>Bookings</a>.
+nav: true
 
 profile:
   align: right
